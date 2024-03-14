@@ -1,7 +1,7 @@
-Pushing original contributors down to compile notes here before the Japanese starts on multi-tool usage: 
+# Pushing original contributors down to compile notes here before the Japanese starts on multi-tool usage: 
 
 
-think I found what is the reliable multi-tool OBS plugin: https://www.youtube.com/watch?v=8m-IQfA_LV8&pp=ygUYbXVsdGkgc3RyZWFtIHR3aXRjaCB0b29s
+Think I found what is the reliable multi-tool OBS plugin: https://www.youtube.com/watch?v=8m-IQfA_LV8&pp=ygUYbXVsdGkgc3RyZWFtIHR3aXRjaCB0b29s
 (installation and source in the details: https://obsproject.com/forum/resources/multiple-rtmp-outputs-plugin.964/)
 (curious if anyone uses another one?)
 

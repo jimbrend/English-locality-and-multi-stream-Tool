@@ -3,6 +3,36 @@
 ## Comments and English by me https://www.github.com/jimbrend & https://www.x.com/usernameisjim
 
 Think I found what is the reliable multi-tool OBS plugin: https://www.youtube.com/watch?v=8m-IQfA_LV8&pp=ygUYbXVsdGkgc3RyZWFtIHR3aXRjaCB0b29s
+
+The YouTube explains the installation... 
+
+To actually install to overview go here: https://obsproject.com/forum/resources/multiple-rtmp-outputs-plugin.964/
+
+Then click Go to download: 
+![image](https://github.com/user-attachments/assets/bc52b2a3-9fc4-446f-bab0-8db1ccb7578c)
+
+Scroll down to latest version for your platform: ![image](https://github.com/user-attachments/assets/023ac622-4fad-4e95-96ce-ff41621e4c5d)
+
+For me it's this: 
+![image](https://github.com/user-attachments/assets/279977af-b455-4084-b4f4-43aa50a2a2d0)
+
+Once completed it will appear here: 
+![image](https://github.com/user-attachments/assets/0c276567-cd9e-470d-b62e-1d3bb067a063)
+
+It is the multiple output: ![image](https://github.com/user-attachments/assets/e770d141-27c2-484c-9052-a879d63be986)
+
+Then it looks like this: 
+![image](https://github.com/user-attachments/assets/cb7fb77f-d251-49f0-bed0-4c098a581da2)
+
+Add multiple "targets" as in Twitch, X, YouTube, Zap.Stream
+![image](https://github.com/user-attachments/assets/0cab3780-5c04-4f1e-b62b-3e4172e56259)
+
+Now you can easily go live on multiple platforms with OBS-Studio at once, 
+
+
+
+More comments on this process below with background details...
+
 (installation and source in the details: https://obsproject.com/forum/resources/multiple-rtmp-outputs-plugin.964/)
 (curious if anyone uses another one?)
 

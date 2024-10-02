@@ -33,11 +33,10 @@ Then it looks like this:
 
 ![image](https://github.com/user-attachments/assets/cb7fb77f-d251-49f0-bed0-4c098a581da2)
 
-Add multiple "targets" as in Twitch, X, YouTube, Zap.Stream
+Add multiple "targets" as in Twitch, X, YouTube, [Zap.Stream](https://zap.stream/dashboard)
 
+![image](https://github.com/user-attachments/assets/fc8d66a2-50fc-4841-9715-cb16f5c31292)
 
-
-![image](https://github.com/user-attachments/assets/0cab3780-5c04-4f1e-b62b-3e4172e56259)
 
 Now you can easily go live on multiple platforms with OBS-Studio at once, 
 

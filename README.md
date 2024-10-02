@@ -10,7 +10,8 @@ To actually install for an overview and easy step-by-step go here: https://obspr
 
 Then click Go to download: 
 
-![image](https://github.com/user-attachments/assets/bc52b2a3-9fc4-446f-bab0-8db1ccb7578c)
+![image](https://github.com/user-attachments/assets/3e51c44e-6379-4150-a54a-61017c2e0a05)
+
 
 Scroll down to latest version for your platform: 
 

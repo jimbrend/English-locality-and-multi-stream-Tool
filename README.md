@@ -67,7 +67,7 @@ I believe that is where you create a source, I've tested this multiple times now
 
 i have confirmed this since you can simulcast to X, twitch, and Nostr/zap.stream at once and pop out and monitor all their chats on web 
 
-I think I found what is the reliable multi-tool OBS plugin: https://www.youtube.com/watch?v=8m-IQfA_LV8&pp=ygUYbXVsdGkgc3RyZWFtIHR3aXRjaCB0b29s
+The reliable multi-tool OBS plugin YouTube video with explanation: https://www.youtube.com/watch?v=8m-IQfA_LV8&pp=ygUYbXVsdGkgc3RyZWFtIHR3aXRjaCB0b29s
 (installation and source in the details: https://obsproject.com/forum/resources/multiple-rtmp-outputs-plugin.964/)
 (curious if anyone uses another one?)
 

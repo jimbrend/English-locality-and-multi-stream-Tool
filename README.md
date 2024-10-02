@@ -9,22 +9,33 @@ The YouTube explains the installation...
 To actually install to overview go here: https://obsproject.com/forum/resources/multiple-rtmp-outputs-plugin.964/
 
 Then click Go to download: 
+
 ![image](https://github.com/user-attachments/assets/bc52b2a3-9fc4-446f-bab0-8db1ccb7578c)
 
-Scroll down to latest version for your platform: ![image](https://github.com/user-attachments/assets/023ac622-4fad-4e95-96ce-ff41621e4c5d)
+Scroll down to latest version for your platform: 
+
+![image](https://github.com/user-attachments/assets/023ac622-4fad-4e95-96ce-ff41621e4c5d)
 
 For me it's this: 
+
 ![image](https://github.com/user-attachments/assets/279977af-b455-4084-b4f4-43aa50a2a2d0)
 
 Once completed it will appear here: 
+
 ![image](https://github.com/user-attachments/assets/0c276567-cd9e-470d-b62e-1d3bb067a063)
 
-It is the multiple output: ![image](https://github.com/user-attachments/assets/e770d141-27c2-484c-9052-a879d63be986)
+It is the multiple output:
+
+ ![image](https://github.com/user-attachments/assets/e770d141-27c2-484c-9052-a879d63be986)
 
 Then it looks like this: 
+
 ![image](https://github.com/user-attachments/assets/cb7fb77f-d251-49f0-bed0-4c098a581da2)
 
 Add multiple "targets" as in Twitch, X, YouTube, Zap.Stream
+
+
+
 ![image](https://github.com/user-attachments/assets/0cab3780-5c04-4f1e-b62b-3e4172e56259)
 
 Now you can easily go live on multiple platforms with OBS-Studio at once, 
@@ -52,6 +63,25 @@ If curious too https://zap.stream/ is another new platform you could multi-strea
 https://github.com/v0l)
 
 Nostr user base kind of plateaued (I preface this from a normal/mainstream perspective only because nostr has had periods of growth to 35M userd and slumps to what looks like 50k or less MAU from thr numbers i can tell) though until maybe another killer app comes along, all the apps for those are interoperable though you login with the same pubkey for your account on all of them - Damus (if you're on Damus you see the same posts from popular users as users browsing on Iris, Amethyst, Snort.social, Astra.ninja interfaces too for the Nostr social feeds) Damus is the biggest one right now a Twitter clone on the App Store… it's a bit of an echo chamber for Bitcoin but people claim it's less toxic than X and you can't be banned there (a bit of a conundrum), one benefit is if you develop a social app or something similar you immediately connect to the 25 million or so userbase can login to your app and there's no KYC onboarding, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

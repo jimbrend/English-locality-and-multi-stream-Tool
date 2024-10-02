@@ -43,7 +43,7 @@ Now you can easily go live on multiple platforms with OBS-Studio at once,
 
 When you click start streaming it will go live with however you normally stream as the first platform such as Twitch or X, 
 
-But then, clicking Start All will go live on all the other platforms you specify at once as you so choos as shown:
+But then, clicking Start All will go live on all the other platforms you specify at once, as you so choose as shown:
 
 ![image](https://github.com/user-attachments/assets/583bb301-24c2-4bf6-aba0-f8bc978b5185)
 

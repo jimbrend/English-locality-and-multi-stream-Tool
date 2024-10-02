@@ -6,7 +6,7 @@ Think I found what is the reliable multi-tool OBS plugin: https://www.youtube.co
 
 The YouTube explains the installation... 
 
-To actually install to overview go here: https://obsproject.com/forum/resources/multiple-rtmp-outputs-plugin.964/
+To actually install for an overview and easy step-by-step go here: https://obsproject.com/forum/resources/multiple-rtmp-outputs-plugin.964/
 
 Then click Go to download: 
 

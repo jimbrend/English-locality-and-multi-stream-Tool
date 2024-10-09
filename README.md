@@ -52,7 +52,7 @@ But then, clicking Start All will go live on all the other platforms you specify
 
 
 
-My X is at the top of this post feel free to reach out to me if you need any assistance via Direct Message.
+
 
 More comments on this process below with background details...
 
